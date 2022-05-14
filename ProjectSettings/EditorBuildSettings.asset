@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/HelloARWorldAndroid.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Face Tracking.unity
     guid: 417b7de6066fe02468d8b65e0e7d7e02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ImagesRandomizer.unity
     guid: 9cdc454fe4586eb44b8a778740d83403
   m_configObjects:
